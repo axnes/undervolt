@@ -27,6 +27,11 @@ From source::
 
     $ git clone https://github.com/georgewhewell/undervolt.git
 
+Ubuntu::
+
+    $ sudo apt-get install msr-tools python3-pip
+    $ sudo pip3 install undervolt
+
 Examples
 --------
 
